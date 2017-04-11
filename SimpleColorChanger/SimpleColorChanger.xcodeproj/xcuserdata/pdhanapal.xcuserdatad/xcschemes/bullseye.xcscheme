@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6BA5090B1E9CBD52003FB543"
-               BuildableName = "bullseye.app"
-               BlueprintName = "bullseye"
-               ReferencedContainer = "container:bullseye.xcodeproj">
+               BuildableName = "SimpleColorChanger.app"
+               BlueprintName = "SimpleColorChanger"
+               ReferencedContainer = "container:SimpleColorChanger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6BA5090B1E9CBD52003FB543"
-            BuildableName = "bullseye.app"
-            BlueprintName = "bullseye"
-            ReferencedContainer = "container:bullseye.xcodeproj">
+            BuildableName = "SimpleColorChanger.app"
+            BlueprintName = "SimpleColorChanger"
+            ReferencedContainer = "container:SimpleColorChanger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6BA5090B1E9CBD52003FB543"
-            BuildableName = "bullseye.app"
-            BlueprintName = "bullseye"
-            ReferencedContainer = "container:bullseye.xcodeproj">
+            BuildableName = "SimpleColorChanger.app"
+            BlueprintName = "SimpleColorChanger"
+            ReferencedContainer = "container:SimpleColorChanger.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6BA5090B1E9CBD52003FB543"
-            BuildableName = "bullseye.app"
-            BlueprintName = "bullseye"
-            ReferencedContainer = "container:bullseye.xcodeproj">
+            BuildableName = "SimpleColorChanger.app"
+            BlueprintName = "SimpleColorChanger"
+            ReferencedContainer = "container:SimpleColorChanger.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

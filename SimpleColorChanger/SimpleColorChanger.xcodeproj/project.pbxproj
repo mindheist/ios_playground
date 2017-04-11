@@ -11,16 +11,14 @@
 		6BA509121E9CBD52003FB543 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA509111E9CBD52003FB543 /* ViewController.swift */; };
 		6BA509151E9CBD52003FB543 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BA509131E9CBD52003FB543 /* Main.storyboard */; };
 		6BA509171E9CBD52003FB543 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BA509161E9CBD52003FB543 /* Assets.xcassets */; };
-		6BA5091A1E9CBD52003FB543 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BA509181E9CBD52003FB543 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6BA5090C1E9CBD52003FB543 /* bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bullseye.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BA5090C1E9CBD52003FB543 /* SimpleColorChanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleColorChanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BA5090F1E9CBD52003FB543 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BA509111E9CBD52003FB543 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6BA509141E9CBD52003FB543 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6BA509161E9CBD52003FB543 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6BA509191E9CBD52003FB543 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6BA5091B1E9CBD52003FB543 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -38,7 +36,7 @@
 		6BA509031E9CBD52003FB543 = {
 			isa = PBXGroup;
 			children = (
-				6BA5090E1E9CBD52003FB543 /* bullseye */,
+				6BA5090E1E9CBD52003FB543 /* SimpleColorChanger */,
 				6BA5090D1E9CBD52003FB543 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,30 +44,30 @@
 		6BA5090D1E9CBD52003FB543 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6BA5090C1E9CBD52003FB543 /* bullseye.app */,
+				6BA5090C1E9CBD52003FB543 /* SimpleColorChanger.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6BA5090E1E9CBD52003FB543 /* bullseye */ = {
+		6BA5090E1E9CBD52003FB543 /* SimpleColorChanger */ = {
 			isa = PBXGroup;
 			children = (
 				6BA5090F1E9CBD52003FB543 /* AppDelegate.swift */,
 				6BA509111E9CBD52003FB543 /* ViewController.swift */,
 				6BA509131E9CBD52003FB543 /* Main.storyboard */,
 				6BA509161E9CBD52003FB543 /* Assets.xcassets */,
-				6BA509181E9CBD52003FB543 /* LaunchScreen.storyboard */,
 				6BA5091B1E9CBD52003FB543 /* Info.plist */,
 			);
+			name = SimpleColorChanger;
 			path = bullseye;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6BA5090B1E9CBD52003FB543 /* bullseye */ = {
+		6BA5090B1E9CBD52003FB543 /* SimpleColorChanger */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BA5091E1E9CBD52003FB543 /* Build configuration list for PBXNativeTarget "bullseye" */;
+			buildConfigurationList = 6BA5091E1E9CBD52003FB543 /* Build configuration list for PBXNativeTarget "SimpleColorChanger" */;
 			buildPhases = (
 				6BA509081E9CBD52003FB543 /* Sources */,
 				6BA509091E9CBD52003FB543 /* Frameworks */,
@@ -79,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = bullseye;
+			name = SimpleColorChanger;
 			productName = bullseye;
-			productReference = 6BA5090C1E9CBD52003FB543 /* bullseye.app */;
+			productReference = 6BA5090C1E9CBD52003FB543 /* SimpleColorChanger.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6BA509071E9CBD52003FB543 /* Build configuration list for PBXProject "bullseye" */;
+			buildConfigurationList = 6BA509071E9CBD52003FB543 /* Build configuration list for PBXProject "SimpleColorChanger" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6BA5090B1E9CBD52003FB543 /* bullseye */,
+				6BA5090B1E9CBD52003FB543 /* SimpleColorChanger */,
 			);
 		};
 /* End PBXProject section */
@@ -123,7 +121,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BA5091A1E9CBD52003FB543 /* LaunchScreen.storyboard in Resources */,
 				6BA509171E9CBD52003FB543 /* Assets.xcassets in Resources */,
 				6BA509151E9CBD52003FB543 /* Main.storyboard in Resources */,
 			);
@@ -150,14 +147,6 @@
 				6BA509141E9CBD52003FB543 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		6BA509181E9CBD52003FB543 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6BA509191E9CBD52003FB543 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -281,7 +270,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6BA509071E9CBD52003FB543 /* Build configuration list for PBXProject "bullseye" */ = {
+		6BA509071E9CBD52003FB543 /* Build configuration list for PBXProject "SimpleColorChanger" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BA5091C1E9CBD52003FB543 /* Debug */,
@@ -290,7 +279,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BA5091E1E9CBD52003FB543 /* Build configuration list for PBXNativeTarget "bullseye" */ = {
+		6BA5091E1E9CBD52003FB543 /* Build configuration list for PBXNativeTarget "SimpleColorChanger" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BA5091F1E9CBD52003FB543 /* Debug */,
