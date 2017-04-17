@@ -5,6 +5,12 @@ Index of Apps
 * 5 cent tour of what the IDE is and where all the functionalities are available
 * Setting Orientation of the app / View / View Controller / Storyboard / Buttons
 
+* [Simple UISlider](https://github.com/mindheist/ios_playground/tree/master/BasicUISlider)
+* Creating a UISlider, setting its limits , UIlabels
+
+* [Tip Calculator](https://github.com/mindheist/ios_playground/tree/master/tipcalculator)
+* TakeAways : Understanding IBActions and IBOutlets better than before.
+
 
 Blogs
 --
