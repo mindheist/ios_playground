@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  tipcalculator
 //
-//  Created by Prabhu Dhanapal on 4/16/17.
 //  Copyright © 2017 pxlhrtbrkr. All rights reserved.
 //
 
